@@ -1,0 +1,26 @@
+*{
+    padding:0%;
+    margin: 0%;
+    font-weight: bold;
+    font-family:Calibri;
+    
+}
+input{
+    
+    font-family: Calibri;
+    caret-color: rgba(255, 166, 0, 0.616);    
+}
+#T1, #T2, #T3, #T4, #T5{
+    font-weight: bold;
+    font-size: 1.3rem;
+    font-family:Calibri;
+    color:rgb(153, 150, 144);
+
+}
+.heading{
+    font-weight: bold;
+    font-size: 3rem;
+    font-family:Calibri;
+}
+
+
